@@ -11,7 +11,7 @@ If you click the incorrect button in the sequence or go five seconds without cli
 Here, you are able to choose to  play again, or exit the game.
 
 > _Note:_
-> In the .\out\build\x64-Debug folder, there will be a **SimonSays.exe** that can run the game.
+> In the .\out\build\x64-Debug folder, there will be a **SimonSays.exe** that can run the game.   
 > The required .wav sound files, TGUI, and SFML library files have been added for the game to run properly.
 
 ### Techniques used
